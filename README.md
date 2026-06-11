@@ -7,7 +7,7 @@
 
 [![Swift](https://img.shields.io/badge/Swift-5.9-FA7343?style=flat-square&logo=swift&logoColor=white)](https://swift.org)
 [![SwiftUI](https://img.shields.io/badge/SwiftUI-5-007AFF?style=flat-square&logo=swift&logoColor=white)](https://developer.apple.com/swiftui/)
-[![iOS](https://img.shields.io/badge/iOS-18%2B-000000?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/ios/)
+[![iOS](https://img.shields.io/badge/iOS-26%2B-000000?style=flat-square&logo=apple&logoColor=white)](https://developer.apple.com/ios/)
 [![App Store](https://img.shields.io/badge/App_Store-Disponible-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6771335712)
 [![License](https://img.shields.io/badge/Licencia-MIT-30D158?style=flat-square)](LICENSE)
 
@@ -24,21 +24,21 @@ Revisada y aprobada por Apple. Cero dependencias de terceros.
 
 <div align="center">
 
-<img src="ScreenshotsLumexia/01-Home.png" width="18%" alt="Inicio" />
-<img src="ScreenshotsLumexia/02-Detail.png" width="18%" alt="Detalle" />
-<img src="ScreenshotsLumexia/03-Latest.png" width="18%" alt="Últimos libros" />
-<img src="ScreenshotsLumexia/04-Best.png" width="18%" alt="Mejores libros" />
-<img src="ScreenshotsLumexia/05-All.png" width="18%" alt="Todos los libros" />
+<img src="ScreenshotLumexia/01-Home.png" width="18%" alt="Inicio" />
+<img src="ScreenshotLumexia/02-Detail.png" width="18%" alt="Detalle" />
+<img src="ScreenshotLumexia/03-Latest.png" width="18%" alt="Últimos libros" />
+<img src="ScreenshotLumexia/04-Best.png" width="18%" alt="Mejores libros" />
+<img src="ScreenshotLumexia/05-All.png" width="18%" alt="Todos los libros" />
 
 </div>
 
 <div align="center">
 
-<img src="ScreenshotsLumexia/06-Detail.png" width="18%" alt="Detalle libro" />
-<img src="ScreenshotsLumexia/07-Home.png" width="18%" alt="Inicio variante" />
-<img src="ScreenshotsLumexia/08-Favorites.png" width="18%" alt="Favoritos" />
-<img src="ScreenshotsLumexia/09-Readed.png" width="18%" alt="Leídos" />
-<img src="ScreenshotsLumexia/10-Search.png" width="18%" alt="Búsqueda" />
+<img src="ScreenshotLumexia/06-Detail.png" width="18%" alt="Detalle libro" />
+<img src="ScreenshotLumexia/07-Home.png" width="18%" alt="Inicio variante" />
+<img src="ScreenshotLumexia/08-Favorites.png" width="18%" alt="Favoritos" />
+<img src="ScreenshotLumexia/09-Readed.png" width="18%" alt="Leídos" />
+<img src="ScreenshotLumexia/10-Search.png" width="18%" alt="Búsqueda" />
 
 </div>
 
